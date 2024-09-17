@@ -1,0 +1,49 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: #ddd; /* Changed background color to grey */
+    color: black; /* Changed text color to black */
+    border-bottom: 1px solid #ddd;
+    padding: 0 20px; /* Add padding for better spacing */
+  }
+  
+  .logo {
+    /* Styling for the logo */
+  }
+  
+  .nav {
+    /* Styling for the navigation */
+  }
+  
+  .nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .nav li {
+    margin-right: 20px;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: black; 
+    font-weight: bold;
+  }
+  
+  .buttons {
+    /* Styling for the buttons */
+  }
+  
+  .sign-up, .sign-in {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px; /* Space between buttons */
+  }

@@ -1,0 +1,12 @@
+/* src/footer/Footer.css */
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: #f0f0f0;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    width: 100%;  /* Ensure the footer stretches across the page */
+  }
+  
